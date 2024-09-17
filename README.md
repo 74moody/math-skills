@@ -14,7 +14,7 @@
 Install math-skills with git
 
 ```bash
-  git clone https://learn.reboot01.com/git/mohani/math-skills.git
+  git clone https://github.com/74moody/math-skills.git
   cd math-skills
 ```
 
@@ -37,7 +37,7 @@ Install math-skills with git
 
 ## Authors
 
-- [@mohani](https://learn.reboot01.com/git/mohani)
+- [@mohani](https://github.com/74moody)
 
     
 
