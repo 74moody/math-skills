@@ -37,7 +37,7 @@ Install math-skills with git
 
 ## Authors
 
-- [@mohani](https://github.com/74moody)
+- [@74moody](https://github.com/74moody)
 
     
 
